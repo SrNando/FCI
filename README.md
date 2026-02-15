@@ -56,19 +56,6 @@ Ao concluir este desafio, aplicamos conhecimentos para:
 
 ---
 
-## 🚀 Como Usar
-
-1. Faça o download ou clone este repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/
-   ```
-
-2. Abra o arquivo `Ferramenta de Controle de Investimentos - Cópia.xlsx`
-
-3. Insira seus dados de simulação na aba **Simulação**
-
----
 
 ## 📌 Observações
 
@@ -89,5 +76,4 @@ Distribuído sob a licença [MIT](LICENSE).
 Este projeto foi desenvolvido como parte da formação prática da DIO.
 Conecte-se comigo para trocas de conhecimento e colaboração!
 
-📧 Email: nando_asa@hotmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/fernando-aguiar-pcd-149386275/
